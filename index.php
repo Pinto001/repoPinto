@@ -12,5 +12,9 @@
 		<h2>This is a test Page</h2>
 	</div>
 
+	<div>
+		<p>Pinto You are awesome</p>
+	</div>
+
 </body>
 </html>
