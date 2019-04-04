@@ -16,5 +16,11 @@
 		<p>Pinto You are awesome</p>
 	</div>
 
+	<section>
+		<form>
+			<input type="text" name="username" placeholder="username">
+		</form>
+	</section>
+
 </body>
 </html>
